@@ -1,7 +1,7 @@
-https://github.com/pokedoc/pokedoc 을 변경해서 만든 드래곤볼 따조 도감
+https://github.com/pokedoc/pokedoc 을 변경해서 만든 포켓몬 서클칩 도감
 ==========================
 
-https://moadocs.github.io/dragonballttazo/
+https://moadocs.github.io/pokecircle/
 
 ## 버전 히스토리
 ### ver 1.0
